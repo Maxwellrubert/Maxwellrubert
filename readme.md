@@ -8,6 +8,8 @@ Web Developer
 
 <a href="https://www.github.com/Maxwellrubert" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Maxwellrubert?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Maxwellrubert&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
 ### Skills
 
