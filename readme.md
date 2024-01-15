@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maxwell Rubert
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Maxwell Rubert
 ======================================================================================================================================
 
-Web Developer
+Aspiring Web Developer
 -------------
 
-* 🌍  I'm based in Kanyakumari, Tamilnadu
+* 🌍  I'm based in Kanyakumari, India
 
 <a href="https://www.github.com/Maxwellrubert" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Maxwellrubert?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
